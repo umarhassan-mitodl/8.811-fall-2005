@@ -5,6 +5,8 @@ description: This resource contains information about Feynman rules for tree gra
 file: /courses/8-811-particle-physics-ii-fall-2005/96b5a9fdbb7b9594d9ef7076823cb2b5_lec11.pdf
 file_size: 83301
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: This file contains the information about motivation, history, linea
 file: /courses/8-811-particle-physics-ii-fall-2005/dfa014a98a3d47383b10b907960f4b2b_sm_higgs_lc.pdf
 file_size: 2673656
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

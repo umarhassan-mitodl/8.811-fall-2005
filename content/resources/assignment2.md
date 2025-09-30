@@ -6,6 +6,8 @@ description: This resource contains 4 problems to test the student's understandi
 file: /courses/8-811-particle-physics-ii-fall-2005/5e2d7416eb74f15886464a2832a728e9_assignment2.pdf
 file_size: 43018
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

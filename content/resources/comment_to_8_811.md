@@ -5,6 +5,8 @@ description: This file contains the information about the comments given by the 
 file: /courses/8-811-particle-physics-ii-fall-2005/704253ca149086abfa1368c9ba13ecad_comment_to_8_811.pdf
 file_size: 128973
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

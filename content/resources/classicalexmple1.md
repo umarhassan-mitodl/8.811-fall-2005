@@ -5,6 +5,8 @@ description: This resource contains information on physics, design consideration
 file: /courses/8-811-particle-physics-ii-fall-2005/518b8713f72611d5e823f0986cacde44_classicalexmple1.pdf
 file_size: 115406
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

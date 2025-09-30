@@ -5,6 +5,8 @@ description: This file contains questions asked by the students and answers prov
 file: /courses/8-811-particle-physics-ii-fall-2005/e5d4288214a45b1ca072e39967e5d476_discussions.pdf
 file_size: 84593
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

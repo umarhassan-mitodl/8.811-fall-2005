@@ -8,6 +8,8 @@ description: This resource contains information about the midterm exam, and the 
 file: /courses/8-811-particle-physics-ii-fall-2005/9e378da4a5688638adb90c44a1e3c4b6_assignment4a.pdf
 file_size: 66006
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

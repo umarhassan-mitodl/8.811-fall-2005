@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section contains information about the course textbooks,
   exams, prerequisite, and grading criteria for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

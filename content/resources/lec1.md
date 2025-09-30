@@ -7,6 +7,8 @@ description: 'This resource explains following topics: building blocks and their
 file: /courses/8-811-particle-physics-ii-fall-2005/05d873ccada5bc9e17e70e0b30119842_lec1.pdf
 file_size: 125482
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

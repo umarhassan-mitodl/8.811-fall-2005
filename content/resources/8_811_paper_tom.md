@@ -5,6 +5,8 @@ description: This file contains the information about the search for a Z' at an 
 file: /courses/8-811-particle-physics-ii-fall-2005/eaf60a9be40abf09a012ccebcac89398_8_811_paper_tom.pdf
 file_size: 132920
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

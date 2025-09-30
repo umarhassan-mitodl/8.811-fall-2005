@@ -5,6 +5,8 @@ description: 'This resource explains following topics: determination of G, Optic
 file: /courses/8-811-particle-physics-ii-fall-2005/bf38eaa413c898c8d32597db0104362b_lec8.pdf
 file_size: 60648
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

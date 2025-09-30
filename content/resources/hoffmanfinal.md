@@ -5,6 +5,8 @@ description: This resource contains information on supersymmetry detection and p
 file: /courses/8-811-particle-physics-ii-fall-2005/9b377f5cfaecb0b2698bef6a7fd1a8f8_hoffmanfinal.pdf
 file_size: 213702
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

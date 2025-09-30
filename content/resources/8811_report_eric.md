@@ -5,6 +5,8 @@ description: This resource contains information about proton decay search, paper
 file: /courses/8-811-particle-physics-ii-fall-2005/85686ef99d39ebfa6b3e842568751b61_8811_report_eric.pdf
 file_size: 164595
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
