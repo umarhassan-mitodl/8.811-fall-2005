@@ -28,7 +28,6 @@
     "website": "8-811-particle-physics-ii-fall-2005"
   },
   "course_title": "Particle Physics II",
-  "hide_download": true,
   "course_description": "8.811, Particle Physics II, describes essential research in High Energy Physics. We derive the Standard Model (SM) first using a bottom up method based on Unitarity, in addition to the usual top down method using SU3xSU2xU1. We describe and analyze several classical experiments, which established the SM, as examples on how to design experiments. Further topics include heavy flavor physics, high-precision tests of the Standard Model, neutrino oscillations, searches for new phenomena (compositeness, supersymmetry, technical color, and GUTs), and discussion of expectations from future accelerators (B factory, LHC, large electron-positron linear colliders, etc). The term paper requires the students to have constant discussions with the instructor throughout the semester on theories, physics, measurables, signatures, detectors, resolution, background identification and elimination, signal to noise and statistical analysis.\n",
   "department_numbers": [
     "8"
@@ -39,7 +38,6 @@
     "content": "4b1b5af8-f2a6-895c-f47b-18e987206558",
     "website": "8-811-particle-physics-ii-fall-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets with Solutions"

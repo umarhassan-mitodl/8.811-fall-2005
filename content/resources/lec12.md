@@ -5,8 +5,6 @@ description: This resource contains information about divergence of crosssection
 file: /courses/8-811-particle-physics-ii-fall-2005/e594058c48fcdaae3e92b94a5dde260c_lec12.pdf
 file_size: 111922
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

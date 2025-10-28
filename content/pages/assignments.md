@@ -3,8 +3,6 @@ content_type: page
 description: The assignments section contain various problem sets to test the student's
   understanding of the course material along with the solution files for them (all
   except one solution file).
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

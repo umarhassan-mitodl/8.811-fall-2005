@@ -5,8 +5,6 @@ description: This file contains the list of references for the research paper an
 file: /courses/8-811-particle-physics-ii-fall-2005/5fa06e278e4534721f5b046b4b1b2590_references.pdf
 file_size: 19853
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

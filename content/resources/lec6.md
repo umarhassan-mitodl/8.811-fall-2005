@@ -5,8 +5,6 @@ description: This resource contains information about lepton mass mixing and qua
 file: /courses/8-811-particle-physics-ii-fall-2005/4ddf9da39f56018a5fb862e337462252_lec6.pdf
 file_size: 85744
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

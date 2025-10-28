@@ -5,8 +5,6 @@ description: This resource contains exercise questions for decay width and higgs
 file: /courses/8-811-particle-physics-ii-fall-2005/59392c7ae983cefc011c0b88792451e6_assignment5_05.pdf
 file_size: 56255
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

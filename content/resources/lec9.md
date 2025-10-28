@@ -5,8 +5,6 @@ description: 'This resource explains following topics: general unitarity limits,
 file: /courses/8-811-particle-physics-ii-fall-2005/c2db47fb1b9fb60d4973113561e8e0f6_lec9.pdf
 file_size: 85836
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

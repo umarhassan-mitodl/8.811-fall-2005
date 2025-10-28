@@ -5,8 +5,6 @@ description: This file contains exercise questions based on the readings for rot
 file: /courses/8-811-particle-physics-ii-fall-2005/11476723a0833fd50b0403f1c22c8fc9_assignment2_05.pdf
 file_size: 51515
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

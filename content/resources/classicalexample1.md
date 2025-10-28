@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-811-particle-physics-ii-fall-2005/0a4bc2b3ccd2655912800d4acb57d0fc_Classicalexample1.pdf
 file_size: 115613
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

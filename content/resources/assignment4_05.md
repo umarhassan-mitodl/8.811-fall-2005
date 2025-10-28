@@ -4,8 +4,6 @@ description: This resource contains exercise questions for midterm and final exa
 file: /courses/8-811-particle-physics-ii-fall-2005/e2152ff1bb9c4dacfe3900ec068f4b72_assignment4_05.pdf
 file_size: 13085
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

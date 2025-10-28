@@ -5,8 +5,6 @@ description: This resource contains solutions to the 6 problems to test the stud
 file: /courses/8-811-particle-physics-ii-fall-2005/1c421ad016549e5985d07431b1425288_sol3.pdf
 file_size: 120900
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

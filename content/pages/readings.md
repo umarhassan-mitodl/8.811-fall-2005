@@ -2,8 +2,6 @@
 content_type: page
 description: The readings section contains listing of lecture topics along with the
   assigned reading for the topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
